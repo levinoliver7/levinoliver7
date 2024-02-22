@@ -1,4 +1,5 @@
-- 👋 Hi, I’m x/ twitter
+- 👋 Hi, ![IMG_5363](https://github.com/levinoliver7/levinoliver7/assets/160883827/77a615f3-d967-43a8-ab4c-14a9aceba0fa)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +8,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-levinoliver7/levinoliver7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+twitter / twitter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
